@@ -13,4 +13,6 @@ Hi Jake!!!
 Yo what's up! WE DEEEEEED IT!!!
 amazing!!!!
 
-I want to load penguins and do a pie chart with it but...too much work
+I want to load penguins and do a QQplot with it but...too much work
+
+
